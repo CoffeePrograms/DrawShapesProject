@@ -1,2 +1,13 @@
-# DrawShapesProject
+# Наследование в Python
+Консольное приложение с отрисовкой фигур
+
+# Сторонние библиотеки
+- PIL
  
+## Классы
+| # | Класс | Родитель |
+|---|---|---|
+| 1 | Shape | |
+| 2 | Circle | Shape |
+| 3 | Ellipse | Circle |
+| 4 | Rectangle | Shape |
