@@ -1,14 +1,11 @@
-# Наследование в Python
-Консольное приложение с отрисовкой фигур.
+# Inheritance in Python
+Inheritance in Python and working with graphics.
 
-## Назначение
-Реализация наследования на языке Python и работа с графикой.  
-
-## Сторонние библиотеки
+## Libraries
 - PIL
- 
+
 ## Классы
-| # | Класс | Родитель |
+| # | Class | Parent |
 |---|---|---|
 | 1 | Shape | |
 | 2 | Circle | Shape |
